@@ -1,0 +1,2 @@
+﻿sup_ok	batch_bad	cashier_ok
+0	0	0
